@@ -57,7 +57,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://alfaloo.github.io/digital-garden/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/" 
       - name: Index pagefind
         run: npx pagefind --source "./public"
       - name: Upload artifact
