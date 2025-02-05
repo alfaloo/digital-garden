@@ -1,4 +1,4 @@
-baseURL = 'https://alfaloo.github.io/'
+baseURL = 'https://alfaloo.github.io/digital-garden/'
 title = "Zhiyang's Digital Garden"
 theme = 'hugo-brewm'
 # enableGitInfo = true
