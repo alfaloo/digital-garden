@@ -11,4 +11,4 @@ coffee: 2
 <strong class="section-title">Acknowledgement</strong>
 
 Created with Hugo, hosted with Github Pages<br>
-Hugo Brewm theme by [foxihd](https://github.com/foxihd/hugo-brewm?tab=readme-ov-file)
+Hugo Brewm theme by <a href="https://github.com/foxihd/hugo-brewm?tab=readme-ov-file" class="redirect-link">foxihd</a>

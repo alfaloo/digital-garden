@@ -1,3 +1,11 @@
-a {
+p, li, h1, h2, h3, h4, h5, h6, span {
+    word-wrap: normal;        /* Allow words to move to the next line instead of breaking */
+    overflow-wrap: normal;    /* Prevent forced word breaks */
+    word-break: keep-all;     /* Ensure words stay intact */
+    hyphens: none;            /* Disable automatic hyphenation */
+}
+
+.redirect-link {
     color: inherit;
+    text-decoration: underline;
 }
