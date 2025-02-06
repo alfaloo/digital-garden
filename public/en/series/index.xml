@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Zhiyang&#39;s Digital Garden</title>
-    <link>http://localhost:1313/en/series/</link>
+    <link>http://localhost:1313/digital-garden/en/series/</link>
     <description>Recent Posts in Series on Zhiyang&#39;s Digital Garden</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-GB</language>
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 14:16:57 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Feb 2025 17:55:43 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/digital-garden/en/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
