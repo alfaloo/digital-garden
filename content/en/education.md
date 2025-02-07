@@ -1,7 +1,6 @@
 ---
 title: 'education'
-cover: '/profile1.jpeg'
-headerpage: ['education']
+aboutme: ['education']
 ---
 
 ## Education!

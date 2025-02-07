@@ -13,6 +13,7 @@
         category = 'categories'
         series = 'series'
         tag = 'tags'
+        aboutme = 'aboutme'
 
 [id]
     contentDir = 'content/id'

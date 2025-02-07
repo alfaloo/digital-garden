@@ -142,11 +142,35 @@
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     </url>
   <url>
+    <loc>http://localhost:1313/digital-garden/en/aboutme/</loc>
+    
+    </url>
+  <url>
     <loc>http://localhost:1313/digital-garden/en/author/</loc>
     
     </url>
   <url>
+    <loc>http://localhost:1313/digital-garden/en/awards/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/digital-garden/en/aboutme/awards/</loc>
+    
+    </url>
+  <url>
     <loc>http://localhost:1313/digital-garden/en/education/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/digital-garden/en/aboutme/education/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/digital-garden/en/experiences/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/digital-garden/en/aboutme/experiences/</loc>
     
     </url>
   <url>
@@ -155,6 +179,14 @@
     </url>
   <url>
     <loc>http://localhost:1313/digital-garden/en/pin/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/digital-garden/en/projects/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/digital-garden/en/aboutme/projects/</loc>
     
     </url>
   <url>
