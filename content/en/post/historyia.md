@@ -7,7 +7,7 @@ type= "post"
 draft= false
 translationKey= "historyia"
 coffee= 1
-tags= ['Philosophy', 'Technology']
+tags= ['Global', 'Social Thought']
 categories= ['Writings']
 history = [
   {date = "2021-05-31", author = "Zhiyang Lu", note = "Published"}
