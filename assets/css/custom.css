@@ -1,3 +1,8 @@
+:root {
+    --ac-light: #36b;
+    --ac-dark: #fa1;
+}
+
 p, li, h1, h2, h3, h4, h5, h6, span {
     word-wrap: normal;        /* Allow words to move to the next line instead of breaking */
     overflow-wrap: normal;    /* Prevent forced word breaks */

@@ -9,7 +9,16 @@
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Sat, 08 Feb 2025 15:50:39 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 16:32:42 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/digital-garden/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redefining Artificial Intelligence</title>
+      <link>http://localhost:1313/digital-garden/en/post/ntw2028/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <author>email@example.com (Author Name)</author>
+      <guid>http://localhost:1313/digital-garden/en/post/ntw2028/</guid>
+      <description></description>
+      
+    </item>
   </channel>
 </rss>
