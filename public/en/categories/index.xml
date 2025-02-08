@@ -9,43 +9,7 @@
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Fri, 07 Feb 2025 17:28:21 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 15:50:39 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/digital-garden/en/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Authoring</title>
-      <link>http://localhost:1313/digital-garden/en/categories/authoring/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/digital-garden/en/categories/authoring/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Configuration</title>
-      <link>http://localhost:1313/digital-garden/en/categories/configuration/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/digital-garden/en/categories/configuration/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Homepage</title>
-      <link>http://localhost:1313/digital-garden/en/categories/homepage/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/digital-garden/en/categories/homepage/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/digital-garden/en/categories/test/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/digital-garden/en/categories/test/</guid>
-      <description></description>
-      
-    </item>
   </channel>
 </rss>

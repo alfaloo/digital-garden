@@ -1,6 +1,8 @@
 ---
 type: 'slide'
 title: 'Pin'
+
+draft: true
 ---
 
 This is a slide with `{{</* pin */>}}` shortcode.

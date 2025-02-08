@@ -166,7 +166,7 @@
             <!-- menu.html -->
     <menu role="presentation">
         <li>
-            <a id="print-button" class="hide" href="javascript:window.print()" title="Print" role="button" aria-label="Print">
+            <a id="print-button" href="javascript:window.print()" title="Print" role="button" aria-label="Print">
                 <span class="t" role="tooltip">Print</span>
             </a>
         </li>
@@ -176,7 +176,7 @@
             </a>
         </li>
         <li>
-            <a id="copyPermalink" class="hide" href="javascript:navigator.clipboard.writeText(window.location.href)" title="Copy Url" role="button" aria-label="Copy Url">
+            <a id="copyPermalink" href="javascript:navigator.clipboard.writeText(window.location.href)" title="Copy Url" role="button" aria-label="Copy Url">
                 <span class="t" role="tooltip">Copy Url</span>
             </a>
         </li>
@@ -213,8 +213,11 @@
         role="document" aria-labelledby="title"
             data-pagefind-body>
         
-        <header class="textwidth" aria-labelledby="title">
-            <!-- title.html -->
+        
+
+        
+            <header class="textwidth" aria-labelledby="title">
+                <!-- title.html -->
         <hgroup data-bionRead-safe>
             <h1 id="title"
                     data-pagefind-meta="title"
@@ -222,15 +225,16 @@
             <p  class="subtitle"
                 role="doc-subtitle">How to configure the main footer in Hugo Brewm theme</p>
         </hgroup>
-            <div id="doc-author" class="textsw author">
-                
-                    <span>Author Name</span>
-            </div>
-            <!-- timestamp.html-->
+                <div id="doc-author" class="textsw author">
+                    
+                        <span>Author Name</span>
+                </div>
+                <!-- timestamp.html-->
     <div >
         <time class="doc-publish-date" datetime="2025-01-26T00:00:00&#43;00:00" data-time-label="Published on">January 26, 2025</time>
     </div>
-        </header>
+            </header>
+        
         <!-- audio.html -->
         <section aria-labelledby="Title" id="content" data-bionRead-safe>
                 <p>The main footer in Hugo Brewm theme can be customized through several configuration options. Here&rsquo;s how to set up different components of the footer.</p>
@@ -270,9 +274,13 @@ Multiple footer sections can be created using different markdown files.</p>
     </div>
         </footer>
     </article>
-    <hr class="hide" style="margin: 1in 0;">
-    <div id="contentinfo" class="pagewidth" role="contentinfo" data-pagefind-ignore="all">
-        <!-- related.html -->
+    
+
+
+    
+        <hr class="hide" style="margin: 1in 0;">
+        <div id="contentinfo" class="pagewidth" role="contentinfo" data-pagefind-ignore="all">
+            <!-- related.html -->
     <nav id="related">
         <strong class="section-title">You might also like</strong><ol>
                     <li><a href="http://localhost:1313/digital-garden/en/post/configure-discussion/">Configure Discussion</a></li>
@@ -282,8 +290,8 @@ Multiple footer sections can be created using different markdown files.</p>
                     <li><a href="http://localhost:1313/digital-garden/en/post/configure-pagefind/">Configure Pagefind</a></li>
                 </ol>
     </nav>
-        <!-- history.html -->
-        <!-- colophon.html -->
+            <!-- history.html -->
+            <!-- colophon.html -->
     <div id="colophon" style="display: none;" aria-live="polite">
         <strong class="section-title">Colophon</strong>
         <div class="f">
@@ -291,127 +299,16 @@ Multiple footer sections can be created using different markdown files.</p>
             <div class="verbose">
                 <div class="has-aria-label-top" aria-label="Configure Main Footer"><span>http://localhost:1313/digital-garden/en/post/configure-main-footer/</span></div>
                 <div><span>This page is accessed on: </span><time id="time-stamp"></time></div>
-                <div><span>This page is built on: </span><time datetime="2025-02-07T17:28:21&#43;08:00">2025-02-07T17:28:21&#43;08:00</time></div>
+                <div><span>This page is built on: </span><time datetime="2025-02-08T15:48:58&#43;08:00">2025-02-08T15:48:58&#43;08:00</time></div>
                 
             </div>
         </div>
     </div>
-        
-        <!-- nav.html -->
-<details class="presentation" aria-expanded="true" id="has-share" open>
-    <summary id="share" tabindex="-1">
-        <span>Share</span>
-    </summary>
-        <nav aria-labelledby="share">
-            <ul role="presentation" class="share">
-                    <!-- share.html -->
-    <li id="has-mastodon">
-        <!-- mastodon.html -->
-    <form class="form" id="mastodon" action="//sharetomastodon.github.io/" target="_blank" rel="noopener noreferrer">
-        <input id="mastodonTitle" type="hidden" name="title" value="Configure Main Footer">
-        <input id="mastodonPermalink" type="hidden" name="url" value="http://localhost:1313/digital-garden/en/post/configure-main-footer/">
-        <input id="mastodonText" type="hidden" name="text" value="Configure Main Footer http://localhost:1313/digital-garden/en/post/configure-main-footer/" disabled>
-        <input id="mastodonInstance" type="url" class="ldots form__input" placeholder="Enter Mastodon instance (https://www.example.com)" aria-label="Mastodon instance URL">
-        <button class="form__button" type="submit" aria-label="Share on Mastodon">
-            <i class="icon mastodon" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Mastodon</span>
-        </button>
-    </form>
-    </li>
-    <li>
-        <a href="mailto:?subject=Configure%20Main%20Footer&body=http%3a%2f%2flocalhost%3a1313%2fdigital-garden%2fen%2fpost%2fconfigure-main-footer%2f" title="Email" role="button" aria-label="Email">
-            <i class="email" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Email</span>
-        </a>
-    </li>
-    <li>
-        <a href="whatsapp://send?text=Configure%20Main%20Footer%20http%3a%2f%2flocalhost%3a1313%2fdigital-garden%2fen%2fpost%2fconfigure-main-footer%2f" title="[i18n] whatsapp" role="button" aria-label="[i18n] whatsapp">
-            <i class="whatsapp" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Whatsapp</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://telegram.me/share/url?text=Configure%20Main%20Footer&amp;url=http://localhost:1313/digital-garden/en/post/configure-main-footer/" role="button"
-            aria-label="Share on Telegram in new tab">
-            <i class="telegram" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Telegram</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://bsky.app/intent/compose?text=Configure%20Main%20Footer&amp;url=http://localhost:1313/digital-garden/en/post/configure-main-footer/" role="button"
-            aria-label="Share on Bluesky in new tab">
-            <i class="bluesky" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Bluesky</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://facebook.com/sharer/sharer.php?u=http://localhost:1313/digital-garden/en/post/configure-main-footer/" role="button"
-            aria-label="Share on Facebook in new tab">
-            <i class="facebook" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Facebook</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://news.ycombinator.com/submitlink?u=http://localhost:1313/digital-garden/en/post/configure-main-footer/&amp;t=Configure%20Main%20Footer" role="button"
-            aria-label="Share on Hackernews in new tab">
-            <i class="hackernews" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Hackernews</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/digital-garden/en/post/configure-main-footer/&amp;title=Configure%20Main%20Footer&amp;summary=Configure%20Main%20Footer&amp;source=http://localhost:1313/digital-garden/en/post/configure-main-footer/" role="button"
-            aria-label="Share on Linkedin in new tab">
-            <i class="linkedin" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Linkedin</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://pinterest.com/pin/create/button/?url=http://localhost:1313/digital-garden/en/post/configure-main-footer/&amp;media=http://localhost:1313/digital-garden/en/post/configure-main-footer/&amp;description=Configure%20Main%20Footer" role="button"
-            aria-label="Share on Pinterest in new tab">
-            <i class="pinterest" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Pinterest</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://reddit.com/submit/?url=http://localhost:1313/digital-garden/en/post/configure-main-footer/&amp;resubmit=true&amp;title=Configure%20Main%20Footer" role="button"
-            aria-label="Share on Reddit in new tab">
-            <i class="reddit" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Reddit</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://www.tumblr.com/widgets/share/tool?posttype=link&amp;title=Configure%20Main%20Footer&amp;caption=Configure%20Main%20Footer&amp;content=http://localhost:1313/digital-garden/en/post/configure-main-footer/&amp;canonicalUrl=http://localhost:1313/digital-garden/en/post/configure-main-footer/" role="button"
-            aria-label="Share on Tumblr in new tab">
-            <i class="tumblr" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Tumblr</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="http://vk.com/share.php?title=Configure%20Main%20Footer&amp;url=http://localhost:1313/digital-garden/en/post/configure-main-footer/" role="button"
-            aria-label="Share on Vk in new tab">
-            <i class="vk" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Vk</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/intent/tweet/?text=Configure%20Main%20Footer&amp;url=http://localhost:1313/digital-garden/en/post/configure-main-footer/" role="button"
-            aria-label="Share on Twitter in new tab">
-            <i class="twitter" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Twitter</span>
-        </a>
-    </li>
-    <li>
-        <a rel="noopener noreferrer" target="_blank" href="https://www.xing.com/app/user?op=share;url=http://localhost:1313/digital-garden/en/post/configure-main-footer/;title=Configure%20Main%20Footer" role="button"
-            aria-label="Share on Xing in new tab">
-            <i class="xing" aria-hidden="true"></i>
-            <span class="t" role="tooltip">Share on Xing</span>
-        </a>
-    </li>
-            </ul>
-        </nav>
-</details>
-        <!-- fediverse.html -->
-    </div>
+            
+            
+            <!-- fediverse.html -->
+        </div>
+    
         <!-- main/footer.html -->
     <hr class="hide">
         <footer id="main-footer">

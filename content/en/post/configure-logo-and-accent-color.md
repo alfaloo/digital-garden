@@ -4,7 +4,7 @@ description: "How to configure the Logo and Accent Color in Hugo Brewm theme"
 date: 2025-01-26
 lastmod: 2025-02-03
 type: post
-draft: false
+draft: true
 translationKey: logo
 coffee: 1
 tags: ['configuration', 'logo', 'color', 'accent']
