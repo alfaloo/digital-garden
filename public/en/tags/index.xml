@@ -8,9 +8,27 @@
     <language>en-GB</language>
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
-    <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Sat, 08 Feb 2025 22:49:03 +0800</lastBuildDate>
+    <copyright>Copyright (c) Zhiyang Lu</copyright>
+    <lastBuildDate>Sat, 08 Feb 2025 23:43:48 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/digital-garden/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global</title>
+      <link>http://localhost:1313/digital-garden/en/tags/global/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <author>email@example.com (Author Name)</author>
+      <guid>http://localhost:1313/digital-garden/en/tags/global/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Social Thought</title>
+      <link>http://localhost:1313/digital-garden/en/tags/social-thought/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <author>email@example.com (Author Name)</author>
+      <guid>http://localhost:1313/digital-garden/en/tags/social-thought/</guid>
+      <description></description>
+      
+    </item>
     <item>
       <title>Artifical Intelligence</title>
       <link>http://localhost:1313/digital-garden/en/tags/artifical-intelligence/</link>
@@ -41,7 +59,7 @@
     <item>
       <title>Fictional</title>
       <link>http://localhost:1313/digital-garden/en/tags/fictional/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
       <author>email@example.com (Author Name)</author>
       <guid>http://localhost:1313/digital-garden/en/tags/fictional/</guid>
       <description></description>

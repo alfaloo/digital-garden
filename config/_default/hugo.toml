@@ -9,7 +9,7 @@ enableMissingTranslationPlaceholders = true
 # sectionPagesMenu = 'main'
 ignoreFiles = ['\.bak$', '\.redacted$']
 ignoreLogs = ['err-youtube-remote']
-copyright = 'Copyright (c) Foxxi'
+copyright = 'Copyright (c) Zhiyang Lu'
 
 [markup]
     [markup.highlight]
