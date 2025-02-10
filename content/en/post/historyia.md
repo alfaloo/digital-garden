@@ -15,7 +15,6 @@ history = [
 +++
 
 ### Identification and Evaluation of Sources
-Identification and evaluation of sources
 Operation Barbarossa oversaw the conflict between two titanic world powers and the clash of
 radically opposed ideologies. Germany’s eventual defeat prompted numerous analyses by historians
 ever since the conclusion of war. This investigation will explore these contesting perspectives,
