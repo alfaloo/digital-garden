@@ -5,4 +5,4 @@ cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/fl
 weight: 1
 ---
 
-In my digital garden, you can browse through my experiences, cool projects, various writings, and digital illustrations (all the graphics on this site were designed by me!). I hope you enjoy your visit and feel free to connect with me on my socials!
+In my digital garden, you can browse through my experiences, cool projects, various writings, and digital illustrations. I hope you enjoy your visit and feel free to connect with me on my socials!
