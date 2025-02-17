@@ -7,7 +7,7 @@ type= "post"
 draft= false
 translationKey= "ee"
 coffee= 1
-tags= ['Fictional']
+tags= ['Fiction']
 categories= ['Writings']
 history = [
   {date = "2021-06-18", author = "Zhiyang Lu", note = "Published"}
