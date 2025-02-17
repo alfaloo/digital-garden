@@ -11,7 +11,7 @@ aboutme: ['education']
 - <a href="https://credentials.nus.edu.sg/0745ee46-e58a-463d-aac8-dfce9b6cdb12" class="redirect-link" target="_blank">School of Computing Dean’s List (AY23/24 Semester 2)</a>
 - <a href="https://credentials.nus.edu.sg/c7eba7b0-b8f7-48ba-b599-b609486dea5a" class="redirect-link" target="_blank">Top Students Award – Introduction to AI and Machine Learning</a>
 - Student Exchange at <a href="https://www.ubc.ca/" class="redirect-link" target="_blank">The University of British Columbia</a>
-  - Awarded NUS-UBC Exchange Award valued at SGD $3125
+  - Awarded the NUS-UBC Exchange Award valued at SGD $3125
 
 <hr>
 
