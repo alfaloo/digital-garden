@@ -3,6 +3,11 @@ title: 'experiences'
 aboutme: ['experiences']
 ---
 
+## <a href="https://optiver.com/" class="redirect-link-title" target="_blank">Incoming Software Developer Intern</a>  
+**Optiver** • Sydeny Australia, December 2025 – February 2026  
+
+<hr>
+
 ## <a href="https://drw.com/" class="redirect-link-title" target="_blank">Incoming Software Developer Intern</a>  
 **DRW Holdings** • Singapore, May – August 2025  
 
