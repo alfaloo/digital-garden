@@ -23,7 +23,7 @@ aboutme: ['experiences']
 
 <hr>
 
-## <a href="https://github.com/alfaloo/iex" class="redirect-link-title" target="_blank">Full Stack Developer</a>  
+## <a href="https://github.com/alfaloo/iex" class="redirect-link-title" target="_blank">Volunteer Full Stack Developer</a>  
 **Impact Experience Project** • Singapore / Cambodia, May 2023 – Present  
 
 - Deployed full-stack web application currently in use by health centers based in Kampong Chhnang, Cambodia.  
