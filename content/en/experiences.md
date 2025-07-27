@@ -8,8 +8,13 @@ aboutme: ['experiences']
 
 <hr>
 
-## <a href="https://drw.com/" class="redirect-link-title" target="_blank">Incoming Software Developer Intern</a>  
+## <a href="https://drw.com/" class="redirect-link-title" target="_blank">Software Developer Intern</a>  
 **DRW Holdings** • Singapore, May – August 2025  
+
+- Optimised performance-critical trading component in C++ using template metaprogramming.
+- Improved in-house Python dependency-graph library by replacing performance critical code with C++ bindings to reduce execution-time by 30x.
+- Developed a new API for OpenSSL write functionality in C that supports vectored IO to reduce the number of records sent over the network (Pull Request \#27768)  
+- Implemented zipping feature in C++ that handles the creation of zip archives and file compression to automatically convert output files from npy to npz format.
 
 <hr>
 

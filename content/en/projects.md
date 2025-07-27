@@ -3,13 +3,6 @@ title: 'projects'
 aboutme: ['projects']
 ---
 
-## <a href="https://github.com/alfaloo/Trading-System" class="redirect-link-title" target="_blank">Trading System</a>  
-*C++*  
-
-- Development still in progress.
-
-<hr>
-
 ## <a href="https://github.com/alfaloo/CryptograFace" class="redirect-link-title" target="_blank">CryptograFace, Encryption via Facial Biometrics</a>  
 *C++, Python, OpenCV, Dlibs, MediaPipe, Crypto++, Qt*  
 
